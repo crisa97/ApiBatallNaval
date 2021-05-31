@@ -1,4 +1,4 @@
-package com.umanizales.apibatallnaval;
+package com.umanizales.apibatallanaval;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.umanizales.apibatallnaval;
+package com.umanizales.apibatallanaval;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
